@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T08:52:28.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="lsKuC5IIOPsg_RkPZwcu" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T09:43:31.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="9mrTeeOCAF1oU-uwdfSh" version="24.5.5" type="github">
   <diagram name="第 1 页" id="5WaXOuPdPEyuQgVvX9WO">
     <mxGraphModel dx="1042" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,30 @@
         </mxCell>
         <mxCell id="SULV0UFMyUpc4uyj97xS-23" value="roll_pointer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SULV0UFMyUpc4uyj97xS-24" value="File Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SULV0UFMyUpc4uyj97xS-25" value="数据页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SULV0UFMyUpc4uyj97xS-26" value="Page Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SULV0UFMyUpc4uyj97xS-27" value="Infimum+supremum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SULV0UFMyUpc4uyj97xS-28" value="User Records" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SULV0UFMyUpc4uyj97xS-29" value="Free Space" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SULV0UFMyUpc4uyj97xS-30" value="Page Directory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SULV0UFMyUpc4uyj97xS-31" value="File Trailer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
