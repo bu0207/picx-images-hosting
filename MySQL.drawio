@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T03:56:58.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="S488DtCc2p38kmR0GDPC" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T06:28:02.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="aMd9x04Z7Gf127tmOZ15" version="24.6.2" type="github">
   <diagram name="第 1 页" id="5WaXOuPdPEyuQgVvX9WO">
-    <mxGraphModel dx="1489" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1104,6 +1104,27 @@
         </mxCell>
         <mxCell id="aK4QPg-AOdt1nrVOHWA2-113" value="槽0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="aK4QPg-AOdt1nrVOHWA2-322">
           <mxGeometry y="12.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aK4QPg-AOdt1nrVOHWA2-323" value="文件头部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="405" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aK4QPg-AOdt1nrVOHWA2-324" value="页面头部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aK4QPg-AOdt1nrVOHWA2-325" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u9e3b348d&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;最小记录和最大记录&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aK4QPg-AOdt1nrVOHWA2-326" value="用户记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="585" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aK4QPg-AOdt1nrVOHWA2-327" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;u27cb93fa&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;空闲空间&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="640" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aK4QPg-AOdt1nrVOHWA2-328" value="页目录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aK4QPg-AOdt1nrVOHWA2-329" value="文件尾部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="768" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
