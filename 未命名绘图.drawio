@@ -1,9 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T06:37:54.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.6.3" etag="ea6bHNEgZFqZ8nqGy0v1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-21T02:12:05.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="SptkO2n2nevZ1dYI-Dcl" version="24.6.5" type="github">
   <diagram name="第 1 页" id="_X20oZnj2oeGaRqEeRO1">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="McvQNvvj3fj_HykaEaG_-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-230" width="760" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-9" value="i小康前端（mit-broker-h5）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-10" value="官微前端（mit-h5）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-11" value="前端网关服务 （mit-base-gateway）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" width="755" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-12" value="建议书前端（mit-prospectus-h5）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="-200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="160" width="730" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry width="730" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-7" value="mit-app-broker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry x="100" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-8" value="mit-app-wxmp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry x="244" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-13" value="mit-ms-edor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry x="390" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-14" value="mit-ms-proposal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry x="540" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-15" value="mit-ms-prospectus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-16" value="mit-ms-claim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry x="244" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-17" value="mit-ms-renewal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry x="390" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-21" value="后端微服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="McvQNvvj3fj_HykaEaG_-22">
+          <mxGeometry x="10" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-23" value="前端服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-24" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-100" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-25" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-72" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-26" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="60" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-27" value="路由转发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-28" value="核心网关（dlis-gateway）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="730" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-29" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-30" value="openfeign" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="408" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-32" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-34" value="核心服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="McvQNvvj3fj_HykaEaG_-35" value="dubbo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
